@@ -1,0 +1,637 @@
+1625179442295	geckodriver	INFO	Listening on 127.0.0.1:49331
+1625179443300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemimgmr"
+1625179445423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemimgmr/search.json.mozlz4", (void 0)))
+1625179451487	Marionette	INFO	Listening on port 37031
+1625179451636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625179526348	Marionette	INFO	Stopped listening on port 37031
+1625179594973	geckodriver	INFO	Listening on 127.0.0.1:33817
+1625179594990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWJCsel"
+1625179596410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWJCsel/search.json.mozlz4", (void 0)))
+1625179602237	Marionette	INFO	Listening on port 33241
+1625179602393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625179618324	Marionette	INFO	Stopped listening on port 33241
+1625179842991	geckodriver	INFO	Listening on 127.0.0.1:46253
+1625179843009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFGZZ1D"
+1625179844473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFGZZ1D/search.json.mozlz4", (void 0)))
+1625179850260	Marionette	INFO	Listening on port 37797
+1625179850422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625179856455	Marionette	INFO	Stopped listening on port 37797
+1625180192920	geckodriver	INFO	Listening on 127.0.0.1:57661
+1625180192938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePGMsYR"
+1625180194749	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePGMsYR/search.json.mozlz4", (void 0)))
+1625180202323	Marionette	INFO	Listening on port 45605
+1625180202449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625180212116	Marionette	INFO	Stopped listening on port 45605
+1625180310281	geckodriver	INFO	Listening on 127.0.0.1:41843
+1625180310298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile01aVzG"
+1625180311919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile01aVzG/search.json.mozlz4", (void 0)))
+1625180319464	Marionette	INFO	Listening on port 43153
+1625180319593	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625180328763	Marionette	INFO	Stopped listening on port 43153
+1625180535685	geckodriver	INFO	Listening on 127.0.0.1:57315
+1625180535705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS1D4ah"
+1625180537300	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS1D4ah/search.json.mozlz4", (void 0)))
+1625180544270	Marionette	INFO	Listening on port 34427
+1625180544627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625180561657	Marionette	INFO	Stopped listening on port 34427
+1625180612817	geckodriver	INFO	Listening on 127.0.0.1:57457
+1625180612834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3IsLFl"
+1625180614556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3IsLFl/search.json.mozlz4", (void 0)))
+1625180621580	Marionette	INFO	Listening on port 40203
+1625180621732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625180643250	Marionette	INFO	Stopped listening on port 40203
+1625180659309	geckodriver	INFO	Listening on 127.0.0.1:37747
+1625180659327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZnFx45"
+1625180660861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZnFx45/search.json.mozlz4", (void 0)))
+1625180667529	Marionette	INFO	Listening on port 39669
+1625180667624	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625180685586	Marionette	INFO	Stopped listening on port 39669
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625180942059	geckodriver	INFO	Listening on 127.0.0.1:33747
+1625180942108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexTSpYy"
+1625180946007	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexTSpYy/search.json.mozlz4", (void 0)))
+1625180963892	Marionette	INFO	Listening on port 40581
+1625180964092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625180990782	Marionette	INFO	Stopped listening on port 40581
+1625181047783	geckodriver	INFO	Listening on 127.0.0.1:32953
+1625181047802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBTufQV"
+1625181049925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBTufQV/search.json.mozlz4", (void 0)))
+1625181057008	Marionette	INFO	Listening on port 34391
+1625181057111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625181193880	Marionette	INFO	Stopped listening on port 34391
+1625181523266	geckodriver	INFO	Listening on 127.0.0.1:42069
+1625181523283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0ExKWV"
+1625181525290	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0ExKWV/search.json.mozlz4", (void 0)))
+1625181531914	Marionette	INFO	Listening on port 43037
+1625181532052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625181616464	Marionette	INFO	Stopped listening on port 43037
+1625181661104	geckodriver	INFO	Listening on 127.0.0.1:32849
+1625181661120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile72uHDm"
+1625181662708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile72uHDm/search.json.mozlz4", (void 0)))
+1625181673381	Marionette	INFO	Listening on port 33677
+1625181673966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625181678739	Marionette	INFO	Stopped listening on port 33677
+1625181779237	geckodriver	INFO	Listening on 127.0.0.1:60373
+1625181779251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem0HAoS"
+1625181780977	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem0HAoS/search.json.mozlz4", (void 0)))
+1625181787652	Marionette	INFO	Listening on port 39565
+1625181787780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625181813169	Marionette	INFO	Stopped listening on port 39565
+1625181823815	geckodriver	INFO	Listening on 127.0.0.1:52103
+1625181823829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledaDwpK"
+1625181825400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledaDwpK/search.json.mozlz4", (void 0)))
+1625181833033	Marionette	INFO	Listening on port 38313
+1625181833128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625181850615	Marionette	INFO	Stopped listening on port 38313
+1625182060127	geckodriver	INFO	Listening on 127.0.0.1:58687
+1625182060139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePNF47e"
+1625182061841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePNF47e/search.json.mozlz4", (void 0)))
+1625182069472	Marionette	INFO	Listening on port 36069
+1625182069570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625182102118	Marionette	INFO	Stopped listening on port 36069
+1625182185434	geckodriver	INFO	Listening on 127.0.0.1:59579
+1625182185452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNc3bDC"
+1625182186898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNc3bDC/search.json.mozlz4", (void 0)))
+1625182193618	Marionette	INFO	Listening on port 42303
+1625182193761	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625182247653	Marionette	INFO	Stopped listening on port 42303
+1625182323259	geckodriver	INFO	Listening on 127.0.0.1:44287
+1625182323277	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWymfr3"
+1625182324688	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWymfr3/search.json.mozlz4", (void 0)))
+1625182330522	Marionette	INFO	Listening on port 41163
+1625182330687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625182370878	Marionette	INFO	Stopped listening on port 41163
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625182407334	geckodriver	INFO	Listening on 127.0.0.1:43703
+1625182407383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelypoZx"
+1625182410259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelypoZx/search.json.mozlz4", (void 0)))
+1625182416420	Marionette	INFO	Listening on port 37659
+1625182416494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625182484760	Marionette	INFO	Stopped listening on port 37659
+1625182557169	geckodriver	INFO	Listening on 127.0.0.1:58755
+1625182557189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYjg6gq"
+1625182558598	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYjg6gq/search.json.mozlz4", (void 0)))
+1625182564388	Marionette	INFO	Listening on port 38409
+1625182564471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625182650120	Marionette	INFO	Stopped listening on port 38409
+1625182665521	geckodriver	INFO	Listening on 127.0.0.1:57605
+1625182665538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilempBycL"
+1625182666944	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilempBycL/search.json.mozlz4", (void 0)))
+1625182672649	Marionette	INFO	Listening on port 41887
+1625182672919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625182681124	Marionette	INFO	Stopped listening on port 41887
+1625182707591	geckodriver	INFO	Listening on 127.0.0.1:49979
+1625182707607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIKve6W"
+1625182709027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIKve6W/search.json.mozlz4", (void 0)))
+1625182714918	Marionette	INFO	Listening on port 33833
+1625182715053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625182723563	Marionette	INFO	Stopped listening on port 33833
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625182753250	geckodriver	INFO	Listening on 127.0.0.1:33543
+1625182753267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2iiI5Z"
+1625182754648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2iiI5Z/search.json.mozlz4", (void 0)))
+1625182760271	Marionette	INFO	Listening on port 37645
+1625182760382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://c2.taboola.com/nr/r7-r7com/newsroom.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1625182777203	Marionette	INFO	Stopped listening on port 37645
+1625182781851	geckodriver	INFO	Listening on 127.0.0.1:49635
+1625182781869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesDT7ff"
+1625182783297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesDT7ff/search.json.mozlz4", (void 0)))
+1625182789126	Marionette	INFO	Listening on port 37025
+1625182789256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 214: TypeError: a.slice is not a function
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1947: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/toolkit/homes.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-ultimas/1.3.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-ultimas/1.3.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-carousel-3/1.0.1/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-carousel-3/1.0.1/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-header/1.0.9/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-header/1.0.9/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-12x1-a/1.1.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-7x2-c/1.1.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-7x2-c/1.1.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-5x1-b/1.0.5/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-5x1-b/1.0.5/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-17x1-a/1.0.13/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/grid-especial-2/1.0.7/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-barraurgente/1.2.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-barraurgente/1.2.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-core/1.11.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-voting/1.7.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/grid-core/1.0.10/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/assets/schumi_core/vertical/critical_path/second_load/application-15638352fac754ec95a7cd74f6233c06.css without a browsingContextID set
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+1625182979382	geckodriver	INFO	Listening on 127.0.0.1:55091
+1625182980401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8pB2e7"
+1625182984520	Marionette	INFO	Marionette enabled
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1625182986566	Marionette	INFO	Stopped listening on port 37025
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8pB2e7/search.json.mozlz4", (void 0)))
+1625182992402	Marionette	INFO	Listening on port 45475
+1625182992538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile8pB2e7/protections.sqlite
+1625183030108	Marionette	INFO	Stopped listening on port 45475
+1625183692166	geckodriver	INFO	Listening on 127.0.0.1:59973
+1625183692182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqP3a6x"
+1625183693703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqP3a6x/search.json.mozlz4", (void 0)))
+1625183703880	Marionette	INFO	Listening on port 41411
+1625183704017	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625183770033	Marionette	INFO	Stopped listening on port 41411
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625183841140	geckodriver	INFO	Listening on 127.0.0.1:40217
+1625183841158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6emPNB"
+1625183842581	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6emPNB/search.json.mozlz4", (void 0)))
+1625183848591	Marionette	INFO	Listening on port 45407
+1625183848762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1625183927557	Marionette	INFO	Stopped listening on port 45407
+1625184079730	geckodriver	INFO	Listening on 127.0.0.1:49531
+1625184079749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezAloia"
+1625184081385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezAloia/search.json.mozlz4", (void 0)))
+1625184088673	Marionette	INFO	Listening on port 43201
+1625184088799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1625184186687	Marionette	INFO	Stopped listening on port 43201
+1625184190426	geckodriver	INFO	Listening on 127.0.0.1:58405
+1625184190448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePwbsLe"
+1625184192041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePwbsLe/search.json.mozlz4", (void 0)))
+1625184198828	Marionette	INFO	Listening on port 36115
+1625184198956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625184277438	Marionette	INFO	Stopped listening on port 36115
+1625184366752	geckodriver	INFO	Listening on 127.0.0.1:34875
+1625184366771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEXMKMo"
+1625184368319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEXMKMo/search.json.mozlz4", (void 0)))
+1625184375145	Marionette	INFO	Listening on port 36473
+1625184375282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1947: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1947: TypeError: currentPanel is undefined
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/toolkit/homes.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-ultimas/1.3.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-ultimas/1.3.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-carousel-3/1.0.1/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-carousel-3/1.0.1/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-header/1.0.9/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-header/1.0.9/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-12x1-a/1.1.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-7x2-c/1.1.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-7x2-c/1.1.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-5x1-b/1.0.5/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-5x1-b/1.0.5/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-17x1-a/1.0.13/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/grid-especial-2/1.0.7/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-barraurgente/1.2.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-barraurgente/1.2.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-core/1.11.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-voting/1.7.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/grid-core/1.0.10/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/assets/schumi_core/vertical/critical_path/second_load/application-15638352fac754ec95a7cd74f6233c06.css without a browsingContextID set
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker84, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3738:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:723:26\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:577:23\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:636:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:732:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:700:16\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:577:23\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:636:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:352:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:539:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nonPickerHovered@resource://devtools/client/inspector/inspector.js:1925:23\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\n_onHovered@resource://devtools/client/inspector/node-picker.js:199:10\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:336:13\nonPacket@resource://devtools/client/devtools-client.js:482:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:577:23\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:636:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:352:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:539:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:719:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:498:12\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:577:23\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:636:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:352:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:539:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:719:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:498:12\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:577:23\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:636:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:352:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:539:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:719:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:498:12\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:577:23\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:636:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:352:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:539:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:719:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:498:12\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:577:23\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/customhighlighter590, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:636:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:732:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:700:16\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1716:21\nCanCloseWindow@chrome://browser/content/browser.js:7860:36\nWindowIsClosing@chrome://browser/content/browser.js:7877:7\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.warn: "Inspector destroyed while executing onReflow callback"
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this._containers is null
+Full stack: getContainer@resource://devtools/client/inspector/markup/markup.js:809:5
+showNode/<@resource://devtools/client/inspector/markup/markup.js:1619:32
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+Promise.prototype.then@resource://gre/modules/Promise-backend.js:483:19
+
+*************************
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this._containers is null
+Full stack: getContainer@resource://devtools/client/inspector/markup/markup.js:809:5
+showNode/<@resource://devtools/client/inspector/markup/markup.js:1619:32
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+Promise.prototype.then@resource://gre/modules/Promise-backend.js:483:19
+
+*************************
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this._containers is null
+Full stack: getContainer@resource://devtools/client/inspector/markup/markup.js:809:5
+showNode/<@resource://devtools/client/inspector/markup/markup.js:1619:32
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+Promise.prototype.then@resource://gre/modules/Promise-backend.js:483:19
+
+*************************
+console.error: (new TypeError("this._containers is null", "resource://devtools/client/inspector/markup/markup.js", 809))
+console.error: (new TypeError("this._containers is null", "resource://devtools/client/inspector/markup/markup.js", 809))
+console.error: (new TypeError("this._containers is null", "resource://devtools/client/inspector/markup/markup.js", 809))
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this._containers is null
+Full stack: getContainer@resource://devtools/client/inspector/markup/markup.js:809:5
+_showNodeAsHovered@resource://devtools/client/inspector/markup/markup.js:670:28
+_onToolboxPickerHover/<@resource://devtools/client/inspector/markup/markup.js:457:12
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+Promise.prototype.then@resource://gre/modules/Promise-backend.js:483:19
+
+*************************
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this._containers is null
+Full stack: getContainer@resource://devtools/client/inspector/markup/markup.js:809:5
+_showNodeAsHovered@resource://devtools/client/inspector/markup/markup.js:670:28
+_onToolboxPickerHover/<@resource://devtools/client/inspector/markup/markup.js:457:12
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+Promise.prototype.then@resource://gre/modules/Promise-backend.js:483:19
+
+*************************
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625184907417	Marionette	INFO	Stopped listening on port 36473
+1625185057760	geckodriver	INFO	Listening on 127.0.0.1:58827
+1625185058770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMJ9Ode"
+1625185060650	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMJ9Ode/search.json.mozlz4", (void 0)))
+1625185072977	Marionette	INFO	Listening on port 39201
+1625185073322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625185136685	Marionette	INFO	Stopped listening on port 39201
+1625185143805	geckodriver	INFO	Listening on 127.0.0.1:34741
+1625185144820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKTLcp0"
+1625185146920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKTLcp0/search.json.mozlz4", (void 0)))
+1625185154385	Marionette	INFO	Listening on port 41221
+1625185154550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1625185195436	Marionette	INFO	Stopped listening on port 41221
+1625185217791	geckodriver	INFO	Listening on 127.0.0.1:41789
+1625185217811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaRwMKv"
+1625185219501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaRwMKv/search.json.mozlz4", (void 0)))
+1625185227646	Marionette	INFO	Listening on port 38095
+1625185227757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+1625185339495	geckodriver	INFO	Listening on 127.0.0.1:42489
+1625185339523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegbW4LC"
+1625185343228	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegbW4LC/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625185357200	Marionette	INFO	Stopped listening on port 38095
+1625185357709	Marionette	INFO	Listening on port 37215
+1625185357874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.watcher2, type watchResources failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_startListening@resource://devtools/shared/resources/resource-watcher.js:754:31\nwatchResources@resource://devtools/shared/resources/resource-watcher.js:168:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 101))
+console.error: "Exception when calling onAvailable handler" "Connection closed, pending request to server0.conn0.watcher2, type watchResources failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_startListening@resource://devtools/shared/resources/resource-watcher.js:754:31\nwatchResources@resource://devtools/shared/resources/resource-watcher.js:168:20\n" (new Error("Connection closed, pending request to server0.conn0.watcher2, type watchResources failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_startListening@resource://devtools/shared/resources/resource-watcher.js:754:31\nwatchResources@resource://devtools/shared/resources/resource-watcher.js:168:20\n", "resource://devtools/shared/protocol/Front.js", 103))
+console.error: (new Error("Can not send request 'watchResources' because front 'watcher' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5/deborah-e-bruno-nina-e-filipe-e-renata-e-leandro-formam-a-oitava-dr-do-power-couple-brasil-5-01072021 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5/deborah-e-bruno-nina-e-filipe-e-renata-e-leandro-formam-a-oitava-dr-do-power-couple-brasil-5-01072021 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: https://cdn.taboola.com/demand-formats/cta-branding/cta-branding.js, line 1: TypeError: a is null
+JavaScript error: https://cdn.taboola.com/demand-formats/cta-branding/cta-branding.js, line 1: TypeError: a is null
+1625185449744	Marionette	INFO	Stopped listening on port 37215
+1625185618899	geckodriver	INFO	Listening on 127.0.0.1:45807
+1625185618916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile56CclU"
+1625185620444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile56CclU/search.json.mozlz4", (void 0)))
+1625185626803	Marionette	INFO	Listening on port 45725
+1625185626936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/toolkit/homes.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-ultimas/1.3.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-ultimas/1.3.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-carousel-3/1.0.1/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-carousel-3/1.0.1/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-header/1.0.9/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-header/1.0.9/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-12x1-a/1.1.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-7x2-c/1.1.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-7x2-c/1.1.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-5x1-b/1.0.5/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-5x1-b/1.0.5/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-17x1-a/1.0.13/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/grid-especial-2/1.0.7/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-barraurgente/1.2.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-barraurgente/1.2.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-core/1.11.0/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/widget-24x1-voting/1.7.0/stylesheets/style-cda.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/static/grid-core/1.0.10/stylesheets/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://assets.r7.com/assets/schumi_core/vertical/critical_path/second_load/application-15638352fac754ec95a7cd74f6233c06.css without a browsingContextID set
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1625185751731	Marionette	INFO	Stopped listening on port 45725
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625185753995	geckodriver	INFO	Listening on 127.0.0.1:48333
+1625185754016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesZ3ViJ"
+1625185755624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesZ3ViJ/search.json.mozlz4", (void 0)))
+1625185762464	Marionette	INFO	Listening on port 33805
+1625185762618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://s.yimg.com/av/yap/ga/yap.js, line 1: TypeError: h is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1625185967794	Marionette	INFO	Stopped listening on port 33805
+1625187067026	geckodriver	INFO	Listening on 127.0.0.1:33239
+1625187067042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1FrXnz"
+1625187068603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1FrXnz/search.json.mozlz4", (void 0)))
+1625187075727	Marionette	INFO	Listening on port 34347
+1625187075936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://recordtv.r7.com/power-couple-brasil-5 line 3 > injectedScript, line 2: TypeError: dataLayer.push is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-931232517, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-801247112, line 213: TypeError: a.slice is not a function
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=AW-814785950, line 213: TypeError: a.slice is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625187163090	Marionette	INFO	Stopped listening on port 34347
